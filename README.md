@@ -4,7 +4,7 @@ An auditable AI wardrobe studio that turns a person photo and clothing reference
 
 > **Engineering beta.** The public beta is running the exact audited commit `1a4a69e701798ef771d3ab01c636946ad67a4334`. Its health endpoint is ready, but the complete verification suite is not green and several downstream experiences still need fresh end-to-end proof. See [Current status](docs/PRODUCT_AND_STATUS.md) before evaluating it.
 
-[Open the beta](https://beta.madeforthisjob.com/) · [Evaluator guide](docs/EVALUATOR_GUIDE_UA.md) · [Local setup](docs/LOCAL_SETUP.md) · [Architecture](docs/ARCHITECTURE.md)
+[Pipeline deck v2](docs/zeely-pipeline-deck-v2.html) · [Open the beta](https://beta.madeforthisjob.com/) · [Evaluator guide](docs/EVALUATOR_GUIDE_UA.md) · [Local setup](docs/LOCAL_SETUP.md) · [Architecture](docs/ARCHITECTURE.md)
 
 ## What it does
 
